@@ -160,17 +160,6 @@ Relevant for:
 
 ---
 
-# 👤 Author
-
-Leonel Torres Garcia  
-Computer Science – Cybersecurity Option  
-Kean University  
-
-GitHub: https://github.com/ltorresgarcia00  
-LinkedIn: https://www.linkedin.com/in/leoneltorresgarcia/
-
----
-
 # 📌 Note
 
 This project is intended for educational and portfolio purposes.
